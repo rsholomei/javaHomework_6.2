@@ -1,0 +1,12 @@
+properties:
+  car:
+    nameCar: BMW
+    wheels_Id: 1
+    engine_Id: 1
+  wheels:
+    tyres_Id: 1
+  engine:
+    engineСapacity: 67
+  tyres:
+    size: 15
+    name: Matador

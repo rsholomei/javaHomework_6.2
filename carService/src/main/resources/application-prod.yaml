@@ -1,0 +1,12 @@
+properties:
+  car:
+    nameCar: Volvo
+    wheels_Id: 1
+    engine_Id: 1
+  wheels:
+    tyres_Id: 1
+  engine:
+    engineСapacity: 49
+  tyres:
+    name: Tunga
+    size: 17
